@@ -2,8 +2,9 @@
 Thanks to this simple integration in php, you will be able to post photos on instagram in php !
 
 
-- !`Note : Limit : 25 posts per day `
+- `Instagram Rate LIMIT : 25 posts per day `
 
+- `Subscribe to my instagram @nathanlegroux `
 
 ## Tutorial and config file here !
 
