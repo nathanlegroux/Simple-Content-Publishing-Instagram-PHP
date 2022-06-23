@@ -61,9 +61,7 @@ $app_id = '';
 
 // 10 : Click on Generate token -> Login to Facebook -> Accept all and Check your instagram account in the list !
 
-// 11 : When you have a token, go to https://developers.facebook.com/tools/debug/accesstoken/ -> Click on debug -> in the bottom of the page, Click on Generate Long-Lived Token
-
-// 12 : Copy the long-lived-token and paste it here 
+// 11 : When you have a token paste it here 
 
 $token = '';
 
