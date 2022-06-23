@@ -30,6 +30,8 @@ $page_id = '';
 
 // 5 : Select Company -> Name your app -> Enter your Email -> Select your buisness account ( IMPORTANT )
 
+// 5 BIS : Click on the square named "Instagram Graph API"
+
 // 6 : Copy your APP ID 
 
 $app_id = '';
@@ -62,7 +64,7 @@ $token = '';
 
 // 13 : Paste the image link that you want upload to instagram here 
 
-$img_link = 'https://image.shutterstock.com/image-photo/cat-medical-mask-protective-antiviral-260nw-1684423789.jpg'; // Must be .JPG
+$img_link = 'https://YOURIMAGE.jpg'; // Must be .JPG
 
 
 // 14 : Write a single word without space in caption.
