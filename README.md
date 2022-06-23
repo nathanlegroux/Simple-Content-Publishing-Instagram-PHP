@@ -9,11 +9,10 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 ## Tutorial and config file here !
 
 
-// IMPORTANT, SAVE THIS FILE AS "config.php" 
 
 ```php
 <?php
-// SAVE THIS FILE AS "config.php"
+// This file is "config.php"
 
 
 // Tutorial: 
