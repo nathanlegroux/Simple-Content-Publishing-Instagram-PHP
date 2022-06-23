@@ -1,5 +1,5 @@
 <?php
-// This file is "config.php"
+// This file is "config.php" !
 
 
 // Tutorial: 
