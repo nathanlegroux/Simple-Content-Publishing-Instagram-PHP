@@ -21,7 +21,8 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 // 1: Convert your instagram personal account to an instagram buisness account. 
 // if you need help look this : https://help.instagram.com/502981923235522
 
-// 2: Create a facebook page, go to settings -> Instagram -> and link your buisness account.
+// 2: Create a facebook page, then go to settings -> Instagram -> and link your buisness account.
+// direct link  : https://www.facebook.com/pages/creation/
 
 // 3 : Now, copy the ID of your page ( https://www.facebook.com/Arni-Web-LGRX-ID_IS_HERE/about/?ref=page_internal ) 
 
