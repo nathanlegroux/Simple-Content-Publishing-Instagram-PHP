@@ -12,6 +12,8 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 
 ```php
 <?php
+// SAVE THIS FILE AS "config.php"
+
 
 
 // Tutorial: 
