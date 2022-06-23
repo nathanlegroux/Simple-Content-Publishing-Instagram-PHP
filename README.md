@@ -24,7 +24,7 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 
 // 3 BIS : example : https://www.facebook.com/Arni-Web-LGRX-106294062129244/about/?ref=page_internal -> ID is = 106294062129244
 
-$page_id = '106294062129244';
+$page_id = '';
 
 // 4 : Create a Facebook app here : https://developers.facebook.com/apps/
 
@@ -32,7 +32,7 @@ $page_id = '106294062129244';
 
 // 6 : Copy your APP ID 
 
-$app_id = '471380571421144';
+$app_id = '';
 
 
 // 7 : Go to https://developers.facebook.com/tools/explorer/
@@ -58,7 +58,7 @@ $app_id = '471380571421144';
 
 // 12 : Copy the long-lived-token and paste it here 
 
-$token = 'EAAGst9eDedgBACZA4eTyVnt3ZAFijXl226IRya4l75RgkVm5EkUpT9ehvaN1RtdydQw1QKQ9mtHsIjAHUMiVZBRfZBpAUm73mgXYQi2jkEP3cOcLeDZAxGIZA8ZC0Xg6InYGIW4t7BQ3VCNsU9QD710FD8MoQAQksZAfKWnIRPJWsaq4Gae5KzDt';
+$token = '';
 
 // 13 : Paste the image link that you want upload to instagram here 
 
