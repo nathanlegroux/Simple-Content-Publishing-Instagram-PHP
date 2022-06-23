@@ -6,6 +6,8 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 
 - `Subscribe to my instagram @nathanlegroux `
 
+- `Docs : https://developers.facebook.com/docs/instagram-api/guides/content-publishing`
+
 ## Tutorial and config file here !
 
 
