@@ -16,10 +16,10 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 // SAVE THIS FILE AS "config.php"
 
 
-
 // Tutorial: 
 
-// 1: Convert your instagram personal account to an instagram buisness account.
+// 1: Convert your instagram personal account to an instagram buisness account. 
+// if you need help look this : https://help.instagram.com/502981923235522
 
 // 2: Create a facebook page, go to settings -> Instagram -> and link your buisness account.
 
