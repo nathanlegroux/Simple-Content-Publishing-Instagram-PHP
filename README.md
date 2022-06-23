@@ -9,7 +9,7 @@ Thanks to this simple integration in php, you will be able to post photos on ins
 ## Tutorial and config file here !
 
 
-// Add this on the top of the file publish.php !
+// IMPORTANT, SAVE THIS FILE AS "config.php" 
 
 ```php
 <?php
